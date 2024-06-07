@@ -9,6 +9,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https://github.com/BurzoBianca/homework5_cloud.git/homework5_cloud/mychart-0.1.0.tgz
+    - https://BurzoBianca.github.io/homework5_cloud/mychart-0.1.0.tgz
     version: 0.1.0
 generated: "2024-06-07T16:50:26.4818563+03:00"
